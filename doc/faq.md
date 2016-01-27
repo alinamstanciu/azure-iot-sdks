@@ -1,6 +1,6 @@
 # Microsoft Azure IoT device SDK FAQ
 
-This document contains both general FAQs about the Microsoft Azure IoT device SDK as a whole, and specific FAQs about the C, .NET, Java, and Node.js SDKs in this repository ([azure-iot-sdks](https://github.com/Azure/azure-iot-sdks)). 
+This document contains both general FAQs about the Microsoft Azure IoT device SDK as a whole, and specific FAQs about the C, .NET, Java, and Node.js SDKs in this repository ([azure-iot-sdks](https://github.com/Azure/azure-iot-sdks)).
 
 **Microsoft Azure IoT SDKs**
 
