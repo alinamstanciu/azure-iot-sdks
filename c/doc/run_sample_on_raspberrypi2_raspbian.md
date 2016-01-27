@@ -1,6 +1,6 @@
 # Raspberry Pi 2 Raspbian Setup
 
-This document describes the process of setting up a [Raspberry Pi 2](https://www.raspberrypi.org/) device to connect to an Azure IoT hub.
+This document describes the process of setting up a [Raspberry Pi 2](https://www.raspberrypi.org/) device to connect to an Azure IoT hub. 
 
 ## Table of Contents
 - [Requirements](#requirements)
